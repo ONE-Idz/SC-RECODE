@@ -1127,7 +1127,7 @@ if __name__=='__main__':
         except:pass
         try:os.system('clear')
         except:pass
-        alvino_xy(f'\n\t{x}{h}𝙻𝚘𝚊𝚍𝚒𝚗𝚐 : ▮▯▮▯▮▯▮▯▮▯▯▯▯▯▯▯▯▯\n\t{x}\033[91;1m▶▶ 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙷𝙴 𝙹𝚄𝙽 𝚃𝙾𝙾𝙻𝚂...')
+        alvino_xy(f'\n\t{x}{h}➽➽ : OPPSSS. SCRIPT INI SEDANG UPDATE..\n\t{x}\033[91;1m➽➽ : COBA HUBUNGGI SAYA..')
         os.system('xdg-open https://www.facebook.com/profile.php?id=100043142015228')
         time.sleep(0)
         exit()
